@@ -8,17 +8,17 @@ Python is a programming language. Like other languages, it gives us a way to com
 
 We convey our commands to the computer by writing them in a text file using a programming language. These files are called programs. Running a program means telling a computer to read the text file, translate it to the set of operations that it understands, and perform those actions.
 
-- [ ] **Instructions**
+- [X] **Instructions**
 
 Now since you have opened the file locally, Change `Kisakye Moses` to your name in the script to the right. Run the code to see what it does!
 
 As soon as you’re ready, move on to the next exercise to begin learning to write your own Python programs!
 
-- [ ] **Concept Review**
+- [X] **Concept Review**
 
 Want to quickly review some of the concepts you’ve been learning? Take a look at this material' [cheatsheet](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-hello-world/cheatsheet)!
 
-- [ ] **Community Forums**
+- [X] **Community Forums**
 
 Here are some helpful links to the top questions asked by coders about this exercise:
 
